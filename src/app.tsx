@@ -1,14 +1,9 @@
 import * as ReactDOM from "react-dom/client";
-
-const App = () => (
-  <div>
-    <button className="btn btn-primary">Hello</button>
-  </div>
-);
+import Home from "./Home";
 
 function render() {
   const root = ReactDOM.createRoot(document.getElementById("app"));
-  root.render(<App />);
+  root.render(<Home />);
 }
 
 render();
