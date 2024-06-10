@@ -1,0 +1,60 @@
+{
+  "Disease": [
+    {
+      "Physical": [
+        {
+          "Structure Anomaly": [
+            {
+              "Fractures": [
+                "Comminuted fracture",
+                "Fracture dislocation",
+                "Greenstick fracture",
+                "Hairline fracture",
+                "Spiral fracture"
+              ]
+            },
+            {
+              "Wound": ["Laceration", "Abrasion", "Puncture", "Amputation"]
+            }
+          ]
+        },
+        {
+          "Cell Disease": [
+            {
+              "Infection": [
+                "Viral infections",
+                "Bacterial infections",
+                "Parasitic infections"
+              ]
+            },
+            {
+              "Cancer": [
+                "Prostate cancer",
+                "Colorectal cancer",
+                "Breast cancer",
+                "Lung cancer",
+                "Bladder cancer",
+                "Kidney cancer",
+                "Pancreatic cancer"
+              ]
+            }
+          ]
+        }
+      ],
+      "Psychological": [
+        {
+          "Mental Illness": [
+            {
+              "Anxiety": [
+                "Depression",
+                "Bipolar disorder",
+                "Schizophrenia",
+                "Eating Disorders"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
