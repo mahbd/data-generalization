@@ -1,5 +1,5 @@
 {
-  "name": "electron-react-typescript-tailwind-starter",
+  "name": "dg",
   "version": "1.0.0",
   "description": "Ready-to-use project template for building cross-platform desktop applications with Electron, React, TypeScript, and Tailwind CSS.",
   "main": ".webpack/main",
@@ -29,6 +29,7 @@
     "@typescript-eslint/parser": "^6.1.0",
     "@vercel/webpack-asset-relocator-loader": "1.7.3",
     "css-loader": "^6.8.1",
+    "daisyui": "^4.12.2",
     "electron": "^25.9.8",
     "eslint": "^8.45.0",
     "eslint-plugin-import": "^2.27.5",
